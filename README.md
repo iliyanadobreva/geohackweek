@@ -2,4 +2,6 @@
 From Geohackweek Git tutorial
 
 ## Instructions
-Feel free to fork on Github or do other stuff, like clone it.
+Feel free to fork on Github or do other stuff, like clone it. 
+Added second line.
+
